@@ -12,7 +12,10 @@ If you'd like to learn more about putting together your own React project from s
 ## To Run
 
 ```
-1. Clone repo:
+1. Clone repo: 
+   git clone https://github.com/daveschumaker/Daves-React-Starter-Project.git
+
 2. npm install
+
 3. npm start
 ```
