@@ -64,7 +64,8 @@ if (TARGET === 'start' || !TARGET) {
       progress: true,
       //stats: 'errors-only',
       host: process.env.HOST,
-      port: process.env.PORT
+      port: 3000
+      //port: process.env.PORT
     },
     plugins: [
       new webpack.HotModuleReplacementPlugin()
